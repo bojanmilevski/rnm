@@ -1,7 +1,7 @@
-# rnm
+# RNM
 
-a cli tool to rename files using the UNIX standard
+A cli tool to rename files using the UNIX standard.
 
-## how
+## HOW
 
-you provide you destination folder. `rnm` recursively renames all files/folders.
+You provide you destination folder. `rnm` recursively renames all files/folders.
